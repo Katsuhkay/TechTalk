@@ -1,98 +1,73 @@
-```markdown
-# 💻 TechTalk
+# TechTalk 🚀  
 
-![TechTalk](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-000?style=flat-square&logo=vercel)
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+Bem-vindo ao **TechTalk** – uma plataforma moderna e interativa para apaixonados por tecnologia! Este projeto foi desenvolvido com as melhores práticas de front-end e back-end, garantindo uma experiência fluida e envolvente.  
 
-O **TechTalk** é um projeto moderno e interativo construído com foco em boas práticas de front-end e integração com Node.js no back-end.  
-A aplicação simula uma experiência de apresentação tecnológica com **animações, timers e design responsivo**.
+## ✨ Tecnologias Utilizadas  
 
----
+- **Front-End:**  
+  - **HTML5** – Estrutura semântica e acessível.  
+  - **SCSS** – Estilização avançada com modularidade e variáveis.  
+  - **JavaScript** – Interatividade e dinamismo.  
+  - **BEM (Block Element Modifier)** – Metodologia CSS para organização escalável.  
+  - **Animações** – Efeitos visuais suaves para melhor UX.  
 
-## 🚀 Tecnologias e Ferramentas Utilizadas
+- **Back-End & Ferramentas:**  
+  - **Node.js** – Ambiente de execução para funcionalidades server-side.  
+  - **Timer** – Controle de tempo para sessões ou eventos.  
+  - **Git & GitHub** – Versionamento e colaboração.  
+  - **Vercel** – Deploy rápido e eficiente com integração contínua.  
 
-✅ **HTML5** – Estrutura semântica e otimizada  
-✅ **SCSS (Sass)** – Organização e reutilização de estilos com pré-processamento  
-✅ **JavaScript** – Interatividade e controle de lógica do timer e animações  
-✅ **Node.js** – Back-end e gerenciamento do ambiente de execução  
-✅ **BEM (Block Element Modifier)** – Metodologia de organização de classes CSS  
-✅ **Animações CSS e JavaScript** – Efeitos visuais suaves e modernos  
-✅ **Timer** – Cronômetro interativo integrado à interface  
-✅ **Git & GitHub** – Versionamento de código  
-✅ **Vercel** – Deploy e hospedagem contínua
+## 🎯 Funcionalidades  
 
----
+✔️ **Interface Responsiva** – Adapta-se a qualquer dispositivo.  
+✔️ **Animações Fluidas** – Transições e microinterações para engajar o usuário.  
+✔️ **Timer Integrado** – Ideal para palestras, workshops ou contagens regressivas.  
+✔️ **Deploy Automatizado** – Hospedagem na Vercel com atualizações em tempo real.  
 
-## 🎯 Funcionalidades
+## 🚀 Como Executar o Projeto  
 
-✨ Layout responsivo adaptado a diversos dispositivos  
-✨ Timer para contagem dinâmica  
-✨ Animações que enriquecem a experiência do usuário  
-✨ Estrutura de código organizada seguindo **BEM**  
-✨ Deploy contínuo via Vercel  
+1. **Clone o repositório:**  
+   ```bash
+   git clone https://github.com/Katsuhkay/TechTalk.git
+   ```  
 
----
+2. **Instale as dependências:**  
+   ```bash
+   npm install
+   ```  
 
-## 🧩 Estrutura do Projeto
+3. **Execute localmente:**  
+   ```bash
+   npm start
+   ```  
+   *(ou o comando correspondente ao seu setup)*  
 
-```
+4. **Acesse no navegador:**  
+   Abra [http://localhost:3000](http://localhost:3000) (ou a porta configurada).  
 
-📂 TechTalk
-├── 📂 public
-│    └── index.html
-├── 📂 src
-│    ├── 📂 styles
-│    │    └── main.scss
-│    └── 📂 scripts
-│         └── app.js
-├── package.json
-├── README.md
-└── ...
+## 🌐 Deploy Online  
 
-````
+O projeto está hospedado na **Vercel** e pode ser acessado aqui:  
+🔗 [Link do Deploy](https://tech-talk-ruby.vercel.app/)
+  
 
----
+## 🤝 Como Contribuir  
 
-## 🌐 Deploy
+1. Faça um **fork** do projeto.  
+2. Crie uma **branch** com sua feature (`git checkout -b feature/incrivel`).  
+3. **Commit** suas mudanças (`git commit -m 'Adiciona feature incrível'`).  
+4. **Push** para a branch (`git push origin feature/incrivel`).  
+5. Abra um **Pull Request** e vamos discutir suas ideias!  
 
-O projeto está hospedado no Vercel e pode ser acessado diretamente:
+## 📜 Licença  
 
-🔗 [Acessar TechTalk Online](https://techtalk.vercel.app)  
-*(Substitua o link pelo URL real do seu deploy)*
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://github.com/Katsuhkay/TechTalk/blob/main/LICENSE) para mais detalhes.  
 
----
+---  
 
-## 🚀 Como Executar Localmente
+Feito com 💙 por [Álex Ramos](https://github.com/Katsuhkay).  
+📩 **Contato:** alex_magalhaes13@hotmail.com | [LinkedIn](https://www.linkedin.com/in/alex-ramos-lkn/).  
 
-Clone o repositório:
+🌟 **Dê uma estrela no repositório se gostou!** ⭐️  
 
-```bash
-git clone https://github.com/Katsuhkay/TechTalk.git
-````
-
-Instale as dependências (se houver):
-
-```bash
-npm install
-```
-
-Inicie o projeto:
-
-```bash
-npm start
-```
-
-Ou apenas abra o `index.html` no seu navegador para ver o front-end.
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob a **MIT License**.
-
----
-
-## 🙋‍♂️ Autor
-
-Feito com dedicação por [Katsuhkay](https://github.com/Katsuhkay) 🚀
+---  
